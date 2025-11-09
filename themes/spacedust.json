@@ -1,0 +1,75 @@
+{
+  "name": "Spacedust",
+  "author": "Hallski",
+  "themes": [
+    {
+      "name": "Spacedust",
+      "appearance": "dark",
+      "style": {
+        "background": "#0a1e24",
+        "foreground": "#ecdfe7",
+        "accent": "#67a0ce",
+        "terminal": {
+          "ansi": {
+            "black": "#6e5346",
+            "red": "#e35b00",
+            "green": "#5cb896",
+            "yellow": "#e3cd7b",
+            "blue": "#0e558b",
+            "magenta": "#0e558b",
+            "cyan": "#06b0c7",
+            "white": "#f0f1ce",
+            "bright_black": "#684c31",
+            "bright_red": "#ff8a3a",
+            "bright_green": "#aed0b8",
+            "bright_yellow": "#ffc877",
+            "bright_blue": "#67a0ce",
+            "bright_magenta": "#67a0ce",
+            "bright_cyan": "#83a7b4",
+            "bright_white": "#fefff1"
+          }
+        },
+        "syntax": {
+          "comment": { "color": "#684c31", "font_style": "italic" },
+          "string": "#5cb896",
+          "number": "#5cb896",
+          "keyword": "#e35b00",
+          "function": "#e3cd7b",
+          "type": "#06b0c7",
+          "property": "#ff8a3a",
+          "constant": "#e35b00",
+          "variable": "#ecdfe7",
+          "title": "#ffc877",
+          "punctuation": "#f0f1ce",
+          "tag": "#e35b00"
+        },
+        "ui": {
+          "editor": {
+            "background": "#0a1e24",
+            "gutter": {
+              "background": "#0a1e24"
+            },
+            "line_number": {
+              "foreground": "#684c31"
+            },
+            "active_line_number": {
+              "foreground": "#f0f1ce"
+            }
+          },
+          "panel": {
+            "background": "#0a1e24",
+            "border": "#684c31"
+          },
+          "tab": {
+            "active_background": "#684c31",
+            "inactive_background": "#0a1e24"
+          },
+          "toolbar": {
+            "background": "#0a1e24"
+          },
+          "border": "#684c31"
+        }
+      }
+    }
+  ]
+}

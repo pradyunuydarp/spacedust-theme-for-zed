@@ -1,0 +1,6 @@
+id = "spacedust-zed-theme"
+name = "Spacedust Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Hallski"]
+description = "A Spacedust theme for Zed editor."
