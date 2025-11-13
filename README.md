@@ -1,4 +1,4 @@
-## Spacedust  Theme for Zed code editor
+## Themes for Zed code editor & Wezterm
 
 Instructions:
 
